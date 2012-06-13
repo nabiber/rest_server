@@ -1,0 +1,11 @@
+{
+  "name": "restapi",                                              
+  "version": "0.0.1",
+  "dependencies":
+  {
+    "winston": ">= 0.6.1",
+    "journey": ">= 0.2.9",
+    "cradle" : ">= 0.6.3",
+    "optimist" : ">= 0.3.4"
+  }
+}
